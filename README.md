@@ -16,5 +16,5 @@ Currently also learning ...
 - Reading <B>Lean Software Development.</B> by Mary Poppendieck
 
 My software development experience:
--  Worked for several years automating Microsoft office (Word, Excel, PowerPoint) to increase the productivity of investment bankers working in New York and London.  I am doing less of this recently, and most of that code is highly proprietary (hard to share here)
+-  Worked for several years automating Microsoft office (Word, Excel, PowerPoint) to increase the productivity of investment bankers working in New York and London.  Technically, this is my best work.  Tens of billions of dollars of business has been pitched using my pitchbooks.  I am doing less of this recently, and most of that code is highly proprietary (hard to share here).
 -  Rally customization to support scaled agile.  (Rally Web App development, using the Rally SDK and ExtJS)
