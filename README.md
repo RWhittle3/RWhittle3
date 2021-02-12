@@ -1,16 +1,20 @@
-### Hi there 👋
+### Introducting myself 😃
 
-<!--
-**RWhittle3/RWhittle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work professionally as a technical program manager based in southern California (Orange County).  I have also managed Investment Banking IT teams in New York and London.  
 
-Here are some ideas to get you started:
+Areas of professional interest include:
+- Scaled agile methodologies (and how to tailor them to the specific needs of the client and the project).
+- IT Management and strategy
+- Program Governance and stakeholder management
+- Cloud technologies
+- Software development process improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently also learning ...
+- Jira (and other emerging project management technologies)
+- Teaching math (and possibly game development) to my 4th grader
+- Reading <B>Lean Software Development.</B> by Mary Poppendieck
+
+My software development experience:
+-  Worked for several years automating Microsoft office (Word, Excel, PowerPoint) to increase the productivity of investment bankers working in New York and London.  I am doing less of this recently, and most of that code is highly proprietary (hard to share here)
+-  Rally customization to support scaled agile.  (Rally Web App development, using the Rally SDK and ExtJS)
